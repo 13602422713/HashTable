@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/1/25 21:56:03。
+     1>项目“D:\私人资料\学习C++\哈希表 C语言\HashTable\HashTable\HashTable.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\software\Programming\VC2012\insist\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt U16HashTable.c main.c
+         main.c
+         U16HashTable.c
+     1>d:\私人资料\学习c++\哈希表 c语言\hashtable\hashtable\u16hashtable.c(65): error C2039: “bAutoRehash”: 不是“U16HashTable”的成员
+                 d:\私人资料\学习c++\哈希表 c语言\hashtable\hashtable\u16hashtable.h(15) : 参见“U16HashTable”的声明
+     1>d:\私人资料\学习c++\哈希表 c语言\hashtable\hashtable\u16hashtable.c(97): error C2039: “bAutoRehash”: 不是“U16HashTable”的成员
+                 d:\私人资料\学习c++\哈希表 c语言\hashtable\hashtable\u16hashtable.h(15) : 参见“U16HashTable”的声明
+     1>d:\私人资料\学习c++\哈希表 c语言\hashtable\hashtable\u16hashtable.c(246): error C2039: “bAutoRehash”: 不是“U16HashTable”的成员
+                 d:\私人资料\学习c++\哈希表 c语言\hashtable\hashtable\u16hashtable.h(15) : 参见“U16HashTable”的声明
+         正在生成代码...
+     1>已完成生成项目“D:\私人资料\学习C++\哈希表 C语言\HashTable\HashTable\HashTable.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.81
